@@ -1,7 +1,8 @@
 # GoogleDataAnalyticsProfessionalCertificate
 # Google Data Analytics Professional Certificate Capstone Project
 
-This repository consists of capstone project from Google Data Analytics Professional Certificate Course offered by Coursera. These projects are form "Track 1" of the module i.e. these offer specific data sets to analyze. Currently, two different scenario/case studies have been analyzed here. 
+This repository consists of capstone project from Google Data Analytics Professional Certificate Course offered by Coursera. PROFESSIONAL TRAINING WITH A DURATION OF 6 MONTHS.  
+These projects are form "Track 1" of the module i.e. these offer specific data sets to analyze. Currently, two different scenario/case studies have been analyzed here. 
 
 ## Cyclistic: How does a bike-share company navigate speedy success?
 
